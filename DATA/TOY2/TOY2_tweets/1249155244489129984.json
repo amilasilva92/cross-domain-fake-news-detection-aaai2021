@@ -1,0 +1,102 @@
+{
+ "created_at": "Sun Apr 12 01:59:53 +0000 2020",
+ "id": 1249155244489129984,
+ "id_str": "1249155244489129984",
+ "text": "Top story: Pentagon Confirms Coronavirus Accidently Got Into Chemtrail Supply Chain, Spraying is Suspended \u2013 Aviati\u2026 https://t.co/HETE1S32SZ",
+ "truncated": true,
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [
+   {
+    "url": "https://t.co/HETE1S32SZ",
+    "expanded_url": "https://twitter.com/i/web/status/1249155244489129984",
+    "display_url": "twitter.com/i/web/status/1\u2026",
+    "indices": [
+     117,
+     140
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"https://www.tweetedtimes.com\" rel=\"nofollow\">The Tweeted Times</a>",
+ "in_reply_to_status_id": null,
+ "in_reply_to_status_id_str": null,
+ "in_reply_to_user_id": null,
+ "in_reply_to_user_id_str": null,
+ "in_reply_to_screen_name": null,
+ "user": {
+  "id": 14851933,
+  "id_str": "14851933",
+  "name": "James A. Sablan Sr.",
+  "screen_name": "judah_one",
+  "location": "Napa Valley",
+  "description": "WE ARE ANONYMOUS EXPECT US.\r\n\r\nPursuant To UCC 1-308:\r\n\r\n Signed,\r\n\r\nJames A. Sablan Sr.,Sui Juris, \r\nAll Rights Reserved  Without Prejudice.",
+  "url": "http://t.co/LNbkB2PIlR",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "http://t.co/LNbkB2PIlR",
+      "expanded_url": "http://worldwideexposelives.blogspot.com/",
+      "display_url": "worldwideexposelives.blogspot.com",
+      "indices": [
+       0,
+       22
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 363,
+  "friends_count": 1289,
+  "listed_count": 11,
+  "created_at": "Wed May 21 03:46:38 +0000 2008",
+  "favourites_count": 2588,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 41313,
+  "lang": null,
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "EEEEEE",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/449602381957705729/I_uNs6A4_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/449602381957705729/I_uNs6A4_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/14851933/1433974871",
+  "profile_link_color": "000000",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "FFFFFF",
+  "profile_text_color": "000000",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "possibly_sensitive_appealable": false,
+ "lang": "en"
+}

@@ -1,0 +1,102 @@
+{
+ "created_at": "Sun Apr 12 03:32:57 +0000 2020",
+ "id": 1249178669056131073,
+ "id_str": "1249178669056131073",
+ "text": "Pentagon Confirms Coronavirus Accidently Got Into Chemtrail Supply Chain, Spraying is Suspended \u2013 Aviation News Tha\u2026 https://t.co/kja9v7mWXi",
+ "truncated": true,
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [],
+  "urls": [
+   {
+    "url": "https://t.co/kja9v7mWXi",
+    "expanded_url": "https://twitter.com/i/web/status/1249178669056131073",
+    "display_url": "twitter.com/i/web/status/1\u2026",
+    "indices": [
+     117,
+     140
+    ]
+   }
+  ]
+ },
+ "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+ "in_reply_to_status_id": null,
+ "in_reply_to_status_id_str": null,
+ "in_reply_to_user_id": null,
+ "in_reply_to_user_id_str": null,
+ "in_reply_to_screen_name": null,
+ "user": {
+  "id": 54516759,
+  "id_str": "54516759",
+  "name": "ARYAN\u00ae",
+  "screen_name": "gladeolie",
+  "location": "cyberspace",
+  "description": "Just a common man with a scientific temper\n#geek #technosavvy #geopolitics #nature #health #astrophyscics #blogger #fashion\n\n\nRetweet is not an endorsement.\u00ae\u00a9",
+  "url": "https://t.co/Cn1mr8riBa",
+  "entities": {
+   "url": {
+    "urls": [
+     {
+      "url": "https://t.co/Cn1mr8riBa",
+      "expanded_url": "http://www.zedie.wordpress.com",
+      "display_url": "zedie.wordpress.com",
+      "indices": [
+       0,
+       23
+      ]
+     }
+    ]
+   },
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 1160,
+  "friends_count": 2014,
+  "listed_count": 262,
+  "created_at": "Tue Jul 07 11:18:59 +0000 2009",
+  "favourites_count": 11457,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 209823,
+  "lang": null,
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "01080A",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1262047398773153792/d2I3V4ho_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262047398773153792/d2I3V4ho_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/54516759/1589730519",
+  "profile_link_color": "0099B9",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "95E8EC",
+  "profile_text_color": "3C3940",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 0,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "possibly_sensitive_appealable": false,
+ "lang": "en"
+}

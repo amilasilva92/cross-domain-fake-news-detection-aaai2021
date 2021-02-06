@@ -1,0 +1,10 @@
+numpy==1.17.2
+vaderSentiment==3.3.2
+nltk==3.4.5
+requests==2.23.0
+torch==1.6.0
+torchvision==0.7.0
+tensorflow==2.3.0
+keras==2.4.3
+scikit-learn==0.22.2
+python-louvain==0.14
