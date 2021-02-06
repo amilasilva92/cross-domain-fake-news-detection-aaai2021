@@ -18,7 +18,7 @@ GossipCop :
 [https://github.com/KaiDMML/FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet)
 
 CoAID :
-[https://github.com/cuilimeng/CoAID]([https://github.com/cuilimeng/CoAID)
+[https://github.com/cuilimeng/CoAID](https://github.com/cuilimeng/CoAID)
 
 To show the inputted formats for these three dataset, the /DATA/ directory consists of three toy datasets: TOY1, TOY2, and TOY3. ***These toy datasets are not representative subsets of the original datasets. We use them only to show the input format of the datasets. Thus, they are not suitable to run the experiments.*** The structure of the /DATA/ directory should be as follows.
 
