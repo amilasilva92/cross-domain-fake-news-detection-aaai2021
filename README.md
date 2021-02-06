@@ -1,4 +1,5 @@
 # Embracing Domain Differences in Fake News: Cross-domain Fake News Detectionusing Multi-modal Data
+[![GitHub](https://img.shields.io/github/license/amilasilva92/multilingual-communities-by-code-switching?style=plastic)](https://opensource.org/licenses/MIT)
 
 This repository provides the source and the formats of the data files to reproduce the results in the following paper:
 
