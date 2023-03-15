@@ -1,13 +1,15 @@
 # Embracing Domain Differences in Fake News: Cross-domain Fake News Detection using Multi-modal Data
 [![GitHub](https://img.shields.io/github/license/amilasilva92/multilingual-communities-by-code-switching?style=plastic)](https://opensource.org/licenses/MIT)
 
-This repository provides the source and the formats of the data files to reproduce the results in the following paper:
+This repository provides the source and the formats of the data files to reproduce the results in the following paper.
 
 ```
 Embracing Domain Differences in Fake News: Cross-domain Fake News Detection using Multi-modal Data
 Amila Silva, Ling Luo, Shanika Karunasekera, Christopher Leckie
 In Proceedings of the AAAI Conference on Artificial Intelligence, 2021 (AAAI2021)
 ```
+
+Abstract: With the rapid evolution of social media, fake news has become a significant social problem, which cannot be addressed in a timely manner using manual investigation. This has motivated numerous studies on automating fake news detection. Most studies explore supervised training models with different modalities (e.g., text, images, and propagation networks) of news records to identify fake news. However, the performance of such techniques generally drops if news records are coming from different domains (e.g., politics, entertainment), especially for domains that are unseen or rarely-seen during training. As motivation, we empirically show that news records from different domains have significantly different word usage and propagation patterns. Furthermore, due to the sheer volume of unlabelled news records, it is challenging to select news records for manual labelling so that the domain-coverage of the labelled dataset is maximized. Hence, this work: (1) proposes a novel framework that jointly preserves domain-specific and cross-domain knowledge in news records to detect fake news from different domains; and (2) introduces an unsupervised technique to select a set of unlabelled informative news records for manual labelling, which can be ultimately used to train a fake news detection model that performs well for many domains while minimizing the labelling cost. Our experiments show that the integration of the proposed fake news model and the selective annotation approach achieves state-of-the-art performance for cross-domain news datasets, while yielding notable improvements for rarely-appearing domains in news datasets.
 
 ##### Datasets 
 This paper uses three publicly availabe fake news datasets from three different domains. Due to the restrictions in Twitter, we cannot share the crawled tweet messages. Please use the following links to download the datasets.
