@@ -28,13 +28,13 @@ To show the inputted formats for these three dataset, the /DATA/ directory consi
 
 ![](https://i.imgur.com/iHj3PIj.png)
 
-For each dataset XXX, there should be a directory in DATA/ under its name (XXX). This directory should include the following files:
-* XXX_graph_labels.txt - i^th^ line in this file gives the fake news label of the i^th^ instance in the dataset XXX 
-* XXX_text.txt - i^th^ line in this file gives the news title of the i^th^ instance in the dataset XXX
-* XXX_node_labels.txt - Each line in this file represent a node in the propagation networks of the dataset XXX. Each line has two entries separated by a comma and the first entry is the index of the node and the second entry shows the type of the node: if the node represent a source node (i.e., news record) in a propagation network, then the value is -1; otherwise the node is a tweet in a propagation network,  then the value gives the tweet id of the corresponding tweet. 
-* XXX_A.txt - Each line in this file represent an edge in a propagation network of the XXX dataset. The first two entries (separated by) in each line represents the source node id and the destination node id of an edge.
-* XXX_graph_indicator.txt - i^th^ line in this file shows the graph (i.e., news record) that i+1^th^ node belongs to 
-* XXX_tweets/ - This directory includes all the tweets files in XXX_node_labels.txt, stored as json files and named under the twitter ids.
+For each dataset ABC, there should be a directory in DATA/ under its name (ABC). This directory should include the following files:
+* ABC_graph_labels.txt - i^th^ line in this file gives the fake news label of the i^th^ instance in the dataset ABC 
+* ABC_text.txt - i^th^ line in this file gives the news title of the i^th^ instance in the dataset ABC
+* ABC_node_labels.txt - Each line in this file represent a node in the propagation networks of the dataset ABC. Each line has two entries separated by a comma and the first entry is the index of the node and the second entry shows the type of the node: if the node represent a source node (i.e., news record) in a propagation network, then the value is -1; otherwise the node is a tweet in a propagation network,  then the value gives the tweet id of the corresponding tweet. 
+* ABC_A.txt - Each line in this file represent an edge in a propagation network of the XXX dataset. The first two entries (separated by) in each line represents the source node id and the destination node id of an edge.
+* ABC_graph_indicator.txt - i^th^ line in this file shows the graph (i.e., news record) that i+1^th^ node belongs to 
+* ABC_tweets/ - This directory includes all the tweets files in ABC_node_labels.txt, stored as json files and named under the twitter ids.
  
 Please see the toy datasets in the DATA/ directory for an example.
 
